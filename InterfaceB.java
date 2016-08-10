@@ -1,0 +1,3 @@
+interface InterfaceB {
+	void funB();
+}
